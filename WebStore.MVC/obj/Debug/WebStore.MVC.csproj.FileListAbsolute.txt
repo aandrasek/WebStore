@@ -1,0 +1,703 @@
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\ApplicationInsights.config
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\WebStore.MVC.dll.config
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\WebStore.MVC.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\WebStore.MVC.pdb
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Antlr3.Runtime.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\AutoMapper.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\EntityFramework.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\EntityFramework.SqlServer.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.AI.Web.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.AI.WindowsServer.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.ApplicationInsights.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.Owin.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Google.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Newtonsoft.Json.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Ninject.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Ninject.Web.Common.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Ninject.Web.Common.WebHost.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Ninject.Web.Mvc.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Owin.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\System.Web.Helpers.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\System.Web.Mvc.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\System.Web.Optimization.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\System.Web.Razor.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\System.Web.WebPages.Deployment.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\System.Web.WebPages.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\System.Web.WebPages.Razor.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\WebActivatorEx.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\WebGrease.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\WebStore.DAL.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\WebStore.Models.Common.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\WebStore.Models.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\WebStore.Repository.Common.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\WebStore.Repository.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\WebStore.Service.Common.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\WebStore.Service.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\WebStore.DAL.pdb
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\WebStore.DAL.dll.config
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\WebStore.Models.Common.pdb
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\WebStore.Models.pdb
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\WebStore.Repository.Common.pdb
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\WebStore.Repository.pdb
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\WebStore.Repository.dll.config
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\WebStore.Service.Common.pdb
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\WebStore.Service.pdb
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\AutoMapper.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Ninject.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Ninject.Web.Common.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Ninject.Web.Common.WebHost.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Ninject.Web.Mvc.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\System.Web.Helpers.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\System.Web.Mvc.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\System.Web.Optimization.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\System.Web.Razor.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\System.Web.WebPages.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\System.Web.WebPages.Deployment.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\System.Web.WebPages.Razor.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Antlr3.Runtime.pdb
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Newtonsoft.Json.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\EntityFramework.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\EntityFramework.SqlServer.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.Owin.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Google.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.ApplicationInsights.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.AI.WindowsServer.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\bin\Microsoft.AI.Web.xml
+c:\users\stole\source\repos\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.csprojResolveAssemblyReference.cache
+c:\users\stole\source\repos\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.csproj.CoreCompileInputs.cache
+c:\users\stole\source\repos\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.dll
+c:\users\stole\source\repos\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\ApplicationInsights.config
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\WebStore.MVC.dll.config
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\WebStore.MVC.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\WebStore.MVC.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Antlr3.Runtime.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\AutoMapper.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\EntityFramework.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.Owin.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Newtonsoft.Json.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Ninject.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Ninject.Web.Common.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Owin.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\System.Web.Helpers.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\System.Web.Mvc.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\System.Web.Optimization.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\System.Web.Razor.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\System.Web.WebPages.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\WebActivatorEx.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\WebGrease.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\WebStore.DAL.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\WebStore.Models.Common.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\WebStore.Models.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\WebStore.Repository.Common.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\WebStore.Repository.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\WebStore.Service.Common.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\WebStore.Service.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\WebStore.DAL.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\WebStore.DAL.dll.config
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\WebStore.Models.Common.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\WebStore.Models.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\WebStore.Repository.Common.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\WebStore.Repository.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\WebStore.Repository.dll.config
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\WebStore.Service.Common.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\WebStore.Service.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\AutoMapper.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Ninject.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Ninject.Web.Common.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\System.Web.Helpers.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\System.Web.Mvc.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\System.Web.Optimization.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\System.Web.Razor.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\System.Web.WebPages.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Newtonsoft.Json.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\EntityFramework.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.Owin.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.csprojResolveAssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.Migrations.kjj.resources
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.csproj.GenerateResource.Cache
+D:\WebStore\WebStore.MVC\bin\ApplicationInsights.config
+D:\WebStore\WebStore.MVC\bin\WebStore.MVC.dll.config
+D:\WebStore\WebStore.MVC\bin\WebStore.MVC.dll
+D:\WebStore\WebStore.MVC\bin\WebStore.MVC.pdb
+D:\WebStore\WebStore.MVC\bin\Antlr3.Runtime.dll
+D:\WebStore\WebStore.MVC\bin\AutoMapper.dll
+D:\WebStore\WebStore.MVC\bin\EntityFramework.dll
+D:\WebStore\WebStore.MVC\bin\EntityFramework.SqlServer.dll
+D:\WebStore\WebStore.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+D:\WebStore\WebStore.MVC\bin\Microsoft.AI.DependencyCollector.dll
+D:\WebStore\WebStore.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\WebStore\WebStore.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\WebStore\WebStore.MVC\bin\Microsoft.AI.Web.dll
+D:\WebStore\WebStore.MVC\bin\Microsoft.AI.WindowsServer.dll
+D:\WebStore\WebStore.MVC\bin\Microsoft.ApplicationInsights.dll
+D:\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\WebStore\WebStore.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebStore\WebStore.MVC\bin\Microsoft.Owin.dll
+D:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.dll
+D:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Google.dll
+D:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\WebStore\WebStore.MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\WebStore\WebStore.MVC\bin\Newtonsoft.Json.dll
+D:\WebStore\WebStore.MVC\bin\Ninject.dll
+D:\WebStore\WebStore.MVC\bin\Ninject.Web.Common.dll
+D:\WebStore\WebStore.MVC\bin\Ninject.Web.Common.WebHost.dll
+D:\WebStore\WebStore.MVC\bin\Ninject.Web.Mvc.dll
+D:\WebStore\WebStore.MVC\bin\Owin.dll
+D:\WebStore\WebStore.MVC\bin\System.Web.Helpers.dll
+D:\WebStore\WebStore.MVC\bin\System.Web.Mvc.dll
+D:\WebStore\WebStore.MVC\bin\System.Web.Optimization.dll
+D:\WebStore\WebStore.MVC\bin\System.Web.Razor.dll
+D:\WebStore\WebStore.MVC\bin\System.Web.WebPages.Deployment.dll
+D:\WebStore\WebStore.MVC\bin\System.Web.WebPages.dll
+D:\WebStore\WebStore.MVC\bin\System.Web.WebPages.Razor.dll
+D:\WebStore\WebStore.MVC\bin\WebActivatorEx.dll
+D:\WebStore\WebStore.MVC\bin\WebGrease.dll
+D:\WebStore\WebStore.MVC\bin\WebStore.DAL.dll
+D:\WebStore\WebStore.MVC\bin\WebStore.Models.Common.dll
+D:\WebStore\WebStore.MVC\bin\WebStore.Models.dll
+D:\WebStore\WebStore.MVC\bin\WebStore.Repository.Common.dll
+D:\WebStore\WebStore.MVC\bin\WebStore.Repository.dll
+D:\WebStore\WebStore.MVC\bin\WebStore.Service.Common.dll
+D:\WebStore\WebStore.MVC\bin\WebStore.Service.dll
+D:\WebStore\WebStore.MVC\bin\WebStore.DAL.pdb
+D:\WebStore\WebStore.MVC\bin\WebStore.DAL.dll.config
+D:\WebStore\WebStore.MVC\bin\WebStore.Models.Common.pdb
+D:\WebStore\WebStore.MVC\bin\WebStore.Models.pdb
+D:\WebStore\WebStore.MVC\bin\WebStore.Repository.Common.pdb
+D:\WebStore\WebStore.MVC\bin\WebStore.Repository.pdb
+D:\WebStore\WebStore.MVC\bin\WebStore.Repository.dll.config
+D:\WebStore\WebStore.MVC\bin\WebStore.Service.Common.pdb
+D:\WebStore\WebStore.MVC\bin\WebStore.Service.pdb
+D:\WebStore\WebStore.MVC\bin\AutoMapper.xml
+D:\WebStore\WebStore.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebStore\WebStore.MVC\bin\Ninject.xml
+D:\WebStore\WebStore.MVC\bin\Ninject.Web.Common.xml
+D:\WebStore\WebStore.MVC\bin\Ninject.Web.Common.WebHost.xml
+D:\WebStore\WebStore.MVC\bin\Ninject.Web.Mvc.xml
+D:\WebStore\WebStore.MVC\bin\System.Web.Helpers.xml
+D:\WebStore\WebStore.MVC\bin\System.Web.Mvc.xml
+D:\WebStore\WebStore.MVC\bin\System.Web.Optimization.xml
+D:\WebStore\WebStore.MVC\bin\System.Web.Razor.xml
+D:\WebStore\WebStore.MVC\bin\System.Web.WebPages.xml
+D:\WebStore\WebStore.MVC\bin\System.Web.WebPages.Deployment.xml
+D:\WebStore\WebStore.MVC\bin\System.Web.WebPages.Razor.xml
+D:\WebStore\WebStore.MVC\bin\Antlr3.Runtime.pdb
+D:\WebStore\WebStore.MVC\bin\Newtonsoft.Json.xml
+D:\WebStore\WebStore.MVC\bin\EntityFramework.xml
+D:\WebStore\WebStore.MVC\bin\EntityFramework.SqlServer.xml
+D:\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\WebStore\WebStore.MVC\bin\Microsoft.Owin.xml
+D:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.xml
+D:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Google.xml
+D:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\WebStore\WebStore.MVC\bin\Microsoft.ApplicationInsights.xml
+D:\WebStore\WebStore.MVC\bin\Microsoft.AI.DependencyCollector.xml
+D:\WebStore\WebStore.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\WebStore\WebStore.MVC\bin\Microsoft.AI.WindowsServer.xml
+D:\WebStore\WebStore.MVC\bin\Microsoft.AI.Web.xml
+D:\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.csprojResolveAssemblyReference.cache
+D:\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.Migrations.kjj.resources
+D:\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.csproj.GenerateResource.Cache
+D:\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.dll
+D:\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.pdb
+E:\WebStore\WebStore.MVC\bin\ApplicationInsights.config
+E:\WebStore\WebStore.MVC\bin\WebStore.MVC.dll.config
+E:\WebStore\WebStore.MVC\bin\WebStore.MVC.dll
+E:\WebStore\WebStore.MVC\bin\WebStore.MVC.pdb
+E:\WebStore\WebStore.MVC\bin\Antlr3.Runtime.dll
+E:\WebStore\WebStore.MVC\bin\AutoMapper.dll
+E:\WebStore\WebStore.MVC\bin\EntityFramework.dll
+E:\WebStore\WebStore.MVC\bin\EntityFramework.SqlServer.dll
+E:\WebStore\WebStore.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+E:\WebStore\WebStore.MVC\bin\Microsoft.AI.DependencyCollector.dll
+E:\WebStore\WebStore.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\WebStore\WebStore.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\WebStore\WebStore.MVC\bin\Microsoft.AI.Web.dll
+E:\WebStore\WebStore.MVC\bin\Microsoft.AI.WindowsServer.dll
+E:\WebStore\WebStore.MVC\bin\Microsoft.ApplicationInsights.dll
+E:\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+E:\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\WebStore\WebStore.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WebStore\WebStore.MVC\bin\Microsoft.Owin.dll
+E:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+E:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.dll
+E:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+E:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Google.dll
+E:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+E:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+E:\WebStore\WebStore.MVC\bin\Microsoft.Web.Infrastructure.dll
+E:\WebStore\WebStore.MVC\bin\Newtonsoft.Json.dll
+E:\WebStore\WebStore.MVC\bin\Ninject.dll
+E:\WebStore\WebStore.MVC\bin\Ninject.Web.Common.dll
+E:\WebStore\WebStore.MVC\bin\Ninject.Web.Common.WebHost.dll
+E:\WebStore\WebStore.MVC\bin\Ninject.Web.Mvc.dll
+E:\WebStore\WebStore.MVC\bin\Owin.dll
+E:\WebStore\WebStore.MVC\bin\System.Web.Helpers.dll
+E:\WebStore\WebStore.MVC\bin\System.Web.Mvc.dll
+E:\WebStore\WebStore.MVC\bin\System.Web.Optimization.dll
+E:\WebStore\WebStore.MVC\bin\System.Web.Razor.dll
+E:\WebStore\WebStore.MVC\bin\System.Web.WebPages.Deployment.dll
+E:\WebStore\WebStore.MVC\bin\System.Web.WebPages.dll
+E:\WebStore\WebStore.MVC\bin\System.Web.WebPages.Razor.dll
+E:\WebStore\WebStore.MVC\bin\WebActivatorEx.dll
+E:\WebStore\WebStore.MVC\bin\WebGrease.dll
+E:\WebStore\WebStore.MVC\bin\WebStore.DAL.dll
+E:\WebStore\WebStore.MVC\bin\WebStore.Models.Common.dll
+E:\WebStore\WebStore.MVC\bin\WebStore.Models.dll
+E:\WebStore\WebStore.MVC\bin\WebStore.Repository.Common.dll
+E:\WebStore\WebStore.MVC\bin\WebStore.Repository.dll
+E:\WebStore\WebStore.MVC\bin\WebStore.Service.Common.dll
+E:\WebStore\WebStore.MVC\bin\WebStore.Service.dll
+E:\WebStore\WebStore.MVC\bin\WebStore.DAL.pdb
+E:\WebStore\WebStore.MVC\bin\WebStore.DAL.dll.config
+E:\WebStore\WebStore.MVC\bin\WebStore.Models.Common.pdb
+E:\WebStore\WebStore.MVC\bin\WebStore.Models.pdb
+E:\WebStore\WebStore.MVC\bin\WebStore.Repository.Common.pdb
+E:\WebStore\WebStore.MVC\bin\WebStore.Repository.pdb
+E:\WebStore\WebStore.MVC\bin\WebStore.Repository.dll.config
+E:\WebStore\WebStore.MVC\bin\WebStore.Service.Common.pdb
+E:\WebStore\WebStore.MVC\bin\WebStore.Service.pdb
+E:\WebStore\WebStore.MVC\bin\AutoMapper.xml
+E:\WebStore\WebStore.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WebStore\WebStore.MVC\bin\Ninject.xml
+E:\WebStore\WebStore.MVC\bin\Ninject.Web.Common.xml
+E:\WebStore\WebStore.MVC\bin\Ninject.Web.Common.WebHost.xml
+E:\WebStore\WebStore.MVC\bin\Ninject.Web.Mvc.xml
+E:\WebStore\WebStore.MVC\bin\System.Web.Helpers.xml
+E:\WebStore\WebStore.MVC\bin\System.Web.Mvc.xml
+E:\WebStore\WebStore.MVC\bin\System.Web.Optimization.xml
+E:\WebStore\WebStore.MVC\bin\System.Web.Razor.xml
+E:\WebStore\WebStore.MVC\bin\System.Web.WebPages.xml
+E:\WebStore\WebStore.MVC\bin\System.Web.WebPages.Deployment.xml
+E:\WebStore\WebStore.MVC\bin\System.Web.WebPages.Razor.xml
+E:\WebStore\WebStore.MVC\bin\Antlr3.Runtime.pdb
+E:\WebStore\WebStore.MVC\bin\Newtonsoft.Json.xml
+E:\WebStore\WebStore.MVC\bin\EntityFramework.xml
+E:\WebStore\WebStore.MVC\bin\EntityFramework.SqlServer.xml
+E:\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+E:\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\WebStore\WebStore.MVC\bin\Microsoft.Owin.xml
+E:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.xml
+E:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+E:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+E:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+E:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Google.xml
+E:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+E:\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\WebStore\WebStore.MVC\bin\Microsoft.ApplicationInsights.xml
+E:\WebStore\WebStore.MVC\bin\Microsoft.AI.DependencyCollector.xml
+E:\WebStore\WebStore.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\WebStore\WebStore.MVC\bin\Microsoft.AI.WindowsServer.xml
+E:\WebStore\WebStore.MVC\bin\Microsoft.AI.Web.xml
+E:\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.csprojResolveAssemblyReference.cache
+E:\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.Migrations.kjj.resources
+E:\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.csproj.GenerateResource.Cache
+E:\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.csproj.CoreCompileInputs.cache
+E:\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.dll
+E:\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.pdb
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\ApplicationInsights.config
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\WebStore.MVC.dll.config
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\WebStore.MVC.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\WebStore.MVC.pdb
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\AutoMapper.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\EntityFramework.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.Owin.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Ninject.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Ninject.Web.Common.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Owin.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\System.Web.Helpers.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\System.Web.Mvc.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\System.Web.Optimization.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\System.Web.Razor.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\System.Web.WebPages.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\WebActivatorEx.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\WebGrease.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\WebStore.DAL.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\WebStore.Models.Common.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\WebStore.Models.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\WebStore.Repository.Common.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\WebStore.Repository.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\WebStore.Service.Common.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\WebStore.Service.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\WebStore.DAL.pdb
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\WebStore.DAL.dll.config
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\WebStore.Models.Common.pdb
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\WebStore.Models.pdb
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\WebStore.Repository.Common.pdb
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\WebStore.Repository.pdb
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\WebStore.Repository.dll.config
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\WebStore.Service.Common.pdb
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\WebStore.Service.pdb
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\AutoMapper.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Ninject.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Ninject.Web.Common.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\System.Web.Helpers.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\System.Web.Mvc.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\System.Web.Optimization.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\System.Web.Razor.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\System.Web.WebPages.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\EntityFramework.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.Owin.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.Migrations.kjj.resources
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.csproj.GenerateResource.Cache
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.dll
+C:\Users\Stole\Desktop\WebStore\WebStore.MVC\obj\Debug\WebStore.MVC.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\ApplicationInsights.config
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.MVC.dll.config
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.MVC.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.MVC.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\AutoMapper.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\EntityFramework.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Ninject.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Ninject.Web.Common.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Owin.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.Helpers.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.Mvc.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.Optimization.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.Razor.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.WebPages.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\WebActivatorEx.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\WebGrease.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.DAL.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Models.Common.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Models.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Repository.Common.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Repository.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Service.Common.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Service.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.DAL.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.DAL.dll.config
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Models.Common.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Models.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Repository.Common.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Repository.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Repository.dll.config
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Service.Common.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Service.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\AutoMapper.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Ninject.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Ninject.Web.Common.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.Helpers.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.Mvc.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.Optimization.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.Razor.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.WebPages.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\EntityFramework.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\obj\Debug\WebStore.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\obj\Debug\WebStore.MVC.Migrations.kjj.resources
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\obj\Debug\WebStore.MVC.csproj.GenerateResource.Cache
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\obj\Debug\WebStore.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\obj\Debug\WebStore.MVC.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\obj\Debug\WebStore.MVC.pdb
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\ApplicationInsights.config
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.MVC.dll.config
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.MVC.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.MVC.pdb
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Antlr3.Runtime.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\AutoMapper.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\EntityFramework.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Newtonsoft.Json.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Ninject.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Ninject.Web.Common.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Owin.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\PagedList.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\PagedList.Mvc.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.Helpers.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.Mvc.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.Optimization.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.Razor.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.WebPages.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\WebActivatorEx.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\WebGrease.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.DAL.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Models.Common.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Models.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Repository.Common.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Repository.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Service.Common.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Service.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.DAL.pdb
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.DAL.dll.config
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Models.Common.pdb
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Models.pdb
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Repository.Common.pdb
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Repository.pdb
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Repository.dll.config
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Service.Common.pdb
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\WebStore.Service.pdb
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\AutoMapper.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Ninject.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Ninject.Web.Common.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\PagedList.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\PagedList.Mvc.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.Helpers.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.Mvc.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.Optimization.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.Razor.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.WebPages.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Newtonsoft.Json.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\EntityFramework.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\obj\Debug\WebStore.MVC.csprojResolveAssemblyReference.cache
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\obj\Debug\WebStore.MVC.Migrations.kjj.resources
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\obj\Debug\WebStore.MVC.csproj.GenerateResource.Cache
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\obj\Debug\WebStore.MVC.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.MVC\obj\Debug\WebStore.MVC.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\PagedList.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\PagedList.Mvc.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\PagedList.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.MVC\bin\PagedList.Mvc.xml

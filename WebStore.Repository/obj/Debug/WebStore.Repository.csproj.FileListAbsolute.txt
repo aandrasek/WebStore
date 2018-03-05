@@ -1,0 +1,108 @@
+c:\users\stole\source\repos\WebStore\WebStore.Repository\bin\Debug\WebStore.Repository.dll.config
+c:\users\stole\source\repos\WebStore\WebStore.Repository\bin\Debug\WebStore.Repository.dll
+c:\users\stole\source\repos\WebStore\WebStore.Repository\bin\Debug\WebStore.Repository.pdb
+c:\users\stole\source\repos\WebStore\WebStore.Repository\bin\Debug\AutoMapper.dll
+c:\users\stole\source\repos\WebStore\WebStore.Repository\bin\Debug\EntityFramework.dll
+c:\users\stole\source\repos\WebStore\WebStore.Repository\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\stole\source\repos\WebStore\WebStore.Repository\bin\Debug\Ninject.dll
+c:\users\stole\source\repos\WebStore\WebStore.Repository\bin\Debug\WebStore.DAL.dll
+c:\users\stole\source\repos\WebStore\WebStore.Repository\bin\Debug\WebStore.Models.Common.dll
+c:\users\stole\source\repos\WebStore\WebStore.Repository\bin\Debug\WebStore.Repository.Common.dll
+c:\users\stole\source\repos\WebStore\WebStore.Repository\bin\Debug\WebStore.DAL.pdb
+c:\users\stole\source\repos\WebStore\WebStore.Repository\bin\Debug\WebStore.DAL.dll.config
+c:\users\stole\source\repos\WebStore\WebStore.Repository\bin\Debug\WebStore.Models.Common.pdb
+c:\users\stole\source\repos\WebStore\WebStore.Repository\bin\Debug\WebStore.Repository.Common.pdb
+c:\users\stole\source\repos\WebStore\WebStore.Repository\bin\Debug\AutoMapper.xml
+c:\users\stole\source\repos\WebStore\WebStore.Repository\bin\Debug\EntityFramework.xml
+c:\users\stole\source\repos\WebStore\WebStore.Repository\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\stole\source\repos\WebStore\WebStore.Repository\bin\Debug\Ninject.xml
+c:\users\stole\source\repos\WebStore\WebStore.Repository\obj\Debug\WebStore.Repository.csprojResolveAssemblyReference.cache
+c:\users\stole\source\repos\WebStore\WebStore.Repository\obj\Debug\WebStore.Repository.csproj.CoreCompileInputs.cache
+c:\users\stole\source\repos\WebStore\WebStore.Repository\obj\Debug\WebStore.Repository.dll
+c:\users\stole\source\repos\WebStore\WebStore.Repository\obj\Debug\WebStore.Repository.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository\bin\Debug\WebStore.Repository.dll.config
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository\bin\Debug\WebStore.Repository.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository\bin\Debug\WebStore.Repository.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository\bin\Debug\AutoMapper.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository\bin\Debug\EntityFramework.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository\bin\Debug\Ninject.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository\bin\Debug\WebStore.DAL.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository\bin\Debug\WebStore.Models.Common.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository\bin\Debug\WebStore.Repository.Common.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository\bin\Debug\WebStore.DAL.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository\bin\Debug\WebStore.DAL.dll.config
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository\bin\Debug\WebStore.Models.Common.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository\bin\Debug\WebStore.Repository.Common.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository\bin\Debug\AutoMapper.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository\bin\Debug\EntityFramework.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository\bin\Debug\Ninject.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository\obj\Debug\WebStore.Repository.csprojResolveAssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository\obj\Debug\WebStore.Repository.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository\obj\Debug\WebStore.Repository.pdb
+E:\WebStore\WebStore.Repository\bin\Debug\WebStore.Repository.dll.config
+E:\WebStore\WebStore.Repository\bin\Debug\WebStore.Repository.dll
+E:\WebStore\WebStore.Repository\bin\Debug\WebStore.Repository.pdb
+E:\WebStore\WebStore.Repository\bin\Debug\AutoMapper.dll
+E:\WebStore\WebStore.Repository\bin\Debug\EntityFramework.dll
+E:\WebStore\WebStore.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\WebStore\WebStore.Repository\bin\Debug\Ninject.dll
+E:\WebStore\WebStore.Repository\bin\Debug\WebStore.DAL.dll
+E:\WebStore\WebStore.Repository\bin\Debug\WebStore.Models.Common.dll
+E:\WebStore\WebStore.Repository\bin\Debug\WebStore.Repository.Common.dll
+E:\WebStore\WebStore.Repository\bin\Debug\WebStore.DAL.pdb
+E:\WebStore\WebStore.Repository\bin\Debug\WebStore.DAL.dll.config
+E:\WebStore\WebStore.Repository\bin\Debug\WebStore.Models.Common.pdb
+E:\WebStore\WebStore.Repository\bin\Debug\WebStore.Repository.Common.pdb
+E:\WebStore\WebStore.Repository\bin\Debug\AutoMapper.xml
+E:\WebStore\WebStore.Repository\bin\Debug\EntityFramework.xml
+E:\WebStore\WebStore.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\WebStore\WebStore.Repository\bin\Debug\Ninject.xml
+E:\WebStore\WebStore.Repository\obj\Debug\WebStore.Repository.csprojResolveAssemblyReference.cache
+E:\WebStore\WebStore.Repository\obj\Debug\WebStore.Repository.csproj.CoreCompileInputs.cache
+E:\WebStore\WebStore.Repository\obj\Debug\WebStore.Repository.dll
+E:\WebStore\WebStore.Repository\obj\Debug\WebStore.Repository.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\WebStore.Repository.dll.config
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\WebStore.Repository.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\WebStore.Repository.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\AutoMapper.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\Ninject.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\WebStore.DAL.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\WebStore.Models.Common.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\WebStore.Repository.Common.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\WebStore.DAL.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\WebStore.DAL.dll.config
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\WebStore.Models.Common.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\WebStore.Repository.Common.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\AutoMapper.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\Ninject.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\obj\Debug\WebStore.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\obj\Debug\WebStore.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\obj\Debug\WebStore.Repository.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository\obj\Debug\WebStore.Repository.pdb
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\WebStore.Repository.dll.config
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\WebStore.Repository.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\WebStore.Repository.pdb
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\AutoMapper.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\EntityFramework.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\Ninject.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\WebStore.DAL.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\WebStore.Models.Common.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\WebStore.Repository.Common.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\WebStore.DAL.pdb
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\WebStore.DAL.dll.config
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\WebStore.Models.Common.pdb
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\WebStore.Repository.Common.pdb
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\AutoMapper.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\EntityFramework.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository\bin\Debug\Ninject.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository\obj\Debug\WebStore.Repository.csprojResolveAssemblyReference.cache
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository\obj\Debug\WebStore.Repository.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository\obj\Debug\WebStore.Repository.pdb

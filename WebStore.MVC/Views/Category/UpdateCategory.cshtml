@@ -1,0 +1,27 @@
+﻿@model WebStore.MVC.ViewModels.CategoryViewModel
+
+@{
+    ViewBag.Title = "UpdateCategory";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .updateImage{
+        height:200px;
+        width:auto;
+    }
+</style>
+<h2>UpdateCategory</h2>
+@using (Html.BeginForm("UpdateCategory2", "Category", FormMethod.Post))
+{
+    <h3>Name:</h3>
+    @Html.TextBoxFor(c => c.Name)
+    <h3>Description:</h3>
+    @Html.TextBoxFor(c => c.Description)
+    <h3>Image:</h3>
+    <img class="updateImage" src="~/Images/@Model.ImageURL" alt="@Model.Name" />
+    @Html.TextBoxFor(c=>c.ImageURL, new { @class = "hidden" })
+    @Html.TextBoxFor(c=>c.ID, new { @class = "hidden" })
+    <br />
+    <input type="submit" value="UPDATE" />
+
+}

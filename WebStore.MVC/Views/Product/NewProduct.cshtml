@@ -1,0 +1,22 @@
+﻿@model WebStore.MVC.ViewModels.ProductViewModel
+<link rel="stylesheet" href="~/mainStyle.css" />
+
+@using (Html.BeginForm("AddProduct", "Product", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <h3>Name:</h3>
+    @Html.TextBoxFor(c => c.Name)
+    <h3>Price:</h3>
+    @Html.TextBoxFor(c => c.Price)
+    <h3>In stock:</h3>
+    @Html.EditorFor(c => c.InStock, new { default_value = false })
+    <h3>Discount:</h3>
+    @Html.EditorFor(c => c.Discounted)
+    <h3>Discount price:</h3>
+    @Html.TextBoxFor(c => c.DiscountPrice)
+
+    <h3>Category:</h3>
+    @Html.ListBoxFor(c => c.SelectedID, Model.Items, new { @class = "listbox" })
+    <h3>Select image:</h3>
+    <input type="file" name="main" />
+    <input type="submit" class="button" value="ADD" />
+}

@@ -1,0 +1,228 @@
+﻿body {
+}
+
+html, body {
+    height: 100%;
+}
+
+.sidelist {
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: auto;
+}
+
+    .sidelist li {
+        width: 100%;
+        font-size: 30px;
+    }
+
+        .sidelist li input {
+            color: #ff6a00;
+            background-repeat: no-repeat;
+            background-size: 0 0;
+            background-color: #fff;
+            width: 100%;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            border: none;
+        }
+
+            .sidelist li input:hover {
+                text-decoration: none;
+                background-size: 50px 100%;
+                background: #ff6a00;
+                background-attachment: local;
+                background-position: center;
+                color: #fff;
+                text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px #777;
+            }
+
+.sidenav {
+    float: left;
+    width: 20%;
+    margin-right: 30px;
+    height: 1000px;
+}
+
+div.product {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 280px;
+    height: 280px;
+}
+
+    div.product:hover {
+        border: 1px solid #777;
+    }
+
+    div.product img {
+        width: 100%;
+    }
+
+div.description2 {
+    width: 50%;
+    padding: 10px;
+    padding-right: 0;
+    background: #fff;
+    float: right;
+    color: #000;
+    font-weight: 700;
+    font-size: 15px;
+    text-align: right;
+}
+
+div.description {
+    width: 50%;
+    padding: 10px;
+    background: #fff;
+    color: #ff6a00;
+    font-size: 20px;
+    text-align: left;
+}
+
+.alignPrice {
+    margin-right: 8px;
+}
+
+.button {
+    border: none;
+    font-weight: bold;
+    background: #ff6a00;
+    color: #000;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.cartbutton {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    font-size: 25px;
+}
+
+.aligncenter {
+    text-align: center;
+}
+
+.c {
+    background: #000000;
+    border: none;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #ff6a00;
+    font-size: 30px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.dropdown-menu li a:hover {
+    background: #ff6a00;
+    color: #000000;
+    font-weight: bold;
+}
+
+.indexImage {
+    width: 50px;
+    height: 50px;
+}
+
+.tableProduct {
+    width: 75%;
+}
+
+.tableCategory {
+    width: 75%;
+}
+
+.orange {
+    color: #ff6a00;
+}
+
+    .orange:hover {
+        color: #000;
+        text-decoration: none
+    }
+
+footer {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 25%;
+    margin: auto;
+    text-align: center;
+}
+
+.body-content {
+    background: #fff;
+}
+
+.page-list2 {
+    margin-left: 25%;
+    width: 75%;
+    text-align: center;
+    clear: both;
+}
+
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+    background-color: #ff6a00;
+    border-color: #ff6a00;
+}
+
+.pagination li a {
+    color: #000;
+}
+
+.totalPrice {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.search {
+    background: #000000;
+    color: #ffffff;
+    border: none;
+    border-bottom: #ffffff 1px solid;
+}
+
+    .search:focus {
+        outline: 0;
+    }
+
+.filterContent {
+    width: 400px;
+    padding: 20px;
+}
+
+.filter {
+    position: absolute;
+    left: 35%;
+    top: 70px;
+    padding: 5px 15px;
+    border-radius: 5px;
+    border: #808080 1px solid;
+}
+
+.dropdown-toggle {
+    text-decoration: none;
+    color: #000000;
+}
+
+    .dropdown-toggle:hover {
+        text-decoration: none;
+        color: #000000;
+    }
+
+    .dropdown-toggle:focus {
+        text-decoration: none;
+        color: #000000;
+    }

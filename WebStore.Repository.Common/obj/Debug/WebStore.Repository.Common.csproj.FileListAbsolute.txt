@@ -1,0 +1,48 @@
+c:\users\stole\source\repos\WebStore\WebStore.Repository.Common\bin\Debug\WebStore.Repository.Common.dll
+c:\users\stole\source\repos\WebStore\WebStore.Repository.Common\bin\Debug\WebStore.Repository.Common.pdb
+c:\users\stole\source\repos\WebStore\WebStore.Repository.Common\bin\Debug\Ninject.dll
+c:\users\stole\source\repos\WebStore\WebStore.Repository.Common\bin\Debug\WebStore.Models.Common.dll
+c:\users\stole\source\repos\WebStore\WebStore.Repository.Common\bin\Debug\WebStore.Models.Common.pdb
+c:\users\stole\source\repos\WebStore\WebStore.Repository.Common\bin\Debug\Ninject.xml
+c:\users\stole\source\repos\WebStore\WebStore.Repository.Common\obj\Debug\WebStore.Repository.Common.csprojResolveAssemblyReference.cache
+c:\users\stole\source\repos\WebStore\WebStore.Repository.Common\obj\Debug\WebStore.Repository.Common.csproj.CoreCompileInputs.cache
+c:\users\stole\source\repos\WebStore\WebStore.Repository.Common\obj\Debug\WebStore.Repository.Common.dll
+c:\users\stole\source\repos\WebStore\WebStore.Repository.Common\obj\Debug\WebStore.Repository.Common.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository.Common\bin\Debug\WebStore.Repository.Common.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository.Common\bin\Debug\WebStore.Repository.Common.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository.Common\bin\Debug\Ninject.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository.Common\bin\Debug\WebStore.Models.Common.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository.Common\bin\Debug\WebStore.Models.Common.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository.Common\bin\Debug\Ninject.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository.Common\obj\Debug\WebStore.Repository.Common.csprojResolveAssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository.Common\obj\Debug\WebStore.Repository.Common.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.Repository.Common\obj\Debug\WebStore.Repository.Common.pdb
+E:\WebStore\WebStore.Repository.Common\bin\Debug\WebStore.Repository.Common.dll
+E:\WebStore\WebStore.Repository.Common\bin\Debug\WebStore.Repository.Common.pdb
+E:\WebStore\WebStore.Repository.Common\bin\Debug\Ninject.dll
+E:\WebStore\WebStore.Repository.Common\bin\Debug\WebStore.Models.Common.dll
+E:\WebStore\WebStore.Repository.Common\bin\Debug\WebStore.Models.Common.pdb
+E:\WebStore\WebStore.Repository.Common\bin\Debug\Ninject.xml
+E:\WebStore\WebStore.Repository.Common\obj\Debug\WebStore.Repository.Common.csprojResolveAssemblyReference.cache
+E:\WebStore\WebStore.Repository.Common\obj\Debug\WebStore.Repository.Common.csproj.CoreCompileInputs.cache
+E:\WebStore\WebStore.Repository.Common\obj\Debug\WebStore.Repository.Common.dll
+E:\WebStore\WebStore.Repository.Common\obj\Debug\WebStore.Repository.Common.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository.Common\bin\Debug\WebStore.Repository.Common.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository.Common\bin\Debug\WebStore.Repository.Common.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository.Common\bin\Debug\Ninject.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository.Common\bin\Debug\WebStore.Models.Common.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository.Common\bin\Debug\WebStore.Models.Common.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository.Common\bin\Debug\Ninject.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository.Common\obj\Debug\WebStore.Repository.Common.csprojResolveAssemblyReference.cache
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository.Common\obj\Debug\WebStore.Repository.Common.csproj.CoreCompileInputs.cache
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository.Common\obj\Debug\WebStore.Repository.Common.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.Repository.Common\obj\Debug\WebStore.Repository.Common.pdb
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository.Common\bin\Debug\WebStore.Repository.Common.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository.Common\bin\Debug\WebStore.Repository.Common.pdb
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository.Common\bin\Debug\Ninject.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository.Common\bin\Debug\WebStore.Models.Common.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository.Common\bin\Debug\WebStore.Models.Common.pdb
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository.Common\bin\Debug\Ninject.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository.Common\obj\Debug\WebStore.Repository.Common.csprojResolveAssemblyReference.cache
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository.Common\obj\Debug\WebStore.Repository.Common.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.Repository.Common\obj\Debug\WebStore.Repository.Common.pdb

@@ -1,0 +1,60 @@
+﻿@model IEnumerable<WebStore.MVC.ViewModels.ItemViewModel>
+
+@{
+    ViewBag.Title = "Cart";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" href="~/mainStyle.css/">
+@if (Model.Count() == 0)
+{
+    <h2 class="aligncenter">No products!</h2>
+}
+else
+{
+    <h2 class="aligncenter">Cart</h2>
+
+    <table class="tableProduct">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Count)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Count)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price) kn
+                </td>
+
+                <td>
+                    @using (Html.BeginForm("DeleteCartProduct", "Home", FormMethod.Post))
+                    {
+                        <input type="number" name="ID" value="@item.ID" hidden />
+                        <input type="text" name="UserID" value="@item.UserID" hidden />
+                        <input type="submit" value="Remove" class="button" />
+                    }
+                </td>
+            </tr>
+        }
+        <tr class="totalPrice">
+            <td>
+                Total: @ViewBag.sum kn
+            </td>
+        </tr>
+    </table>
+}

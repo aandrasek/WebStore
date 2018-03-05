@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" href="~/mainStyle.css" />
+    @using Microsoft.AspNet.Identity
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top c">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Webstore", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                            Admin
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/Category/AllCategories">Categories</a></li>
+                            <li><a href="/Product/AllProducts">Products</a></li>
+                        </ul>
+                    </li>
+
+                </ul>
+                @Html.Partial("_LoginPartial")
+                <div style="float:right">
+                    <form style="margin-top:10px;" action="/Home/Products/0?search">
+                        <input class="search" name="search" type="search" placeholder="Search" value="@ViewBag.search" />
+                        <input type="submit" class="button" value="Search" />
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        <div class="sidenav">
+            @Html.Action("Categories", "Home")
+        </div>
+        @using (Html.BeginForm("Cart", "Home", FormMethod.Post))
+        {
+            <input type="text" value="@User.Identity.GetUserId()" name="UserID" hidden />
+            <input type="submit" value="CART" class="button cartbutton" />
+        }
+
+
+        @RenderBody()
+
+        <footer>
+            <p>&copy;Antonio Andrašek. All rights reserved.</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

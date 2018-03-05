@@ -1,0 +1,18 @@
+﻿@model WebStore.MVC.ViewModels.CategoryViewModel
+<link rel="stylesheet" href="~/mainStyle.css" />
+@{
+    ViewBag.Title = "NewCategory";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("AddCategory", "Category", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <h3>Name:</h3>
+    @Html.TextBoxFor(c => c.Name)
+    <h3>Short description:</h3>
+    @Html.TextBoxFor(c => c.Description)
+    <h3>Select image:</h3>
+    <input type="file" name="main" />
+    <input type="submit" class="button" value="ADD" />
+}
+

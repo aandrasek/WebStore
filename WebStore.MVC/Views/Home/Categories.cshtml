@@ -1,0 +1,13 @@
+﻿@model IList<WebStore.MVC.ViewModels.CategoryViewModel>
+<link rel="stylesheet" href="~/mainStyle.css" />
+
+<body>
+    <ul class="sidelist">
+        @foreach (var item in Model)
+        {
+            <li>
+                <input type="button" value="@item.Name" onclick="window.location='/Home/Products/@item.ID';" style="background-image: url('/Images/@item.ImageURL');" />
+            </li>
+        }
+    </ul>
+</body>

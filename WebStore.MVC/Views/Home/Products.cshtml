@@ -1,0 +1,125 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@using Microsoft.AspNet.Identity
+@model PagedList<WebStore.MVC.ViewModels.ProductViewModel>
+
+@{
+    /**/
+
+    ViewBag.Title = "Products";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" href="~/mainStyle.css" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<div class="All">
+
+
+    @if (Model.Count == 0)
+    {
+        <h2 class="aligncenter">No products!</h2>
+    }
+    else
+    {
+        <h2 class="aligncenter">@ViewBag.name</h2>
+        if (ViewBag.name != null)
+        {
+            <div class="dropdown filter">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                    Filter
+                    <span class="caret"></span>
+                </a>
+                <div class="dropdown-menu filterContent">
+
+                    @using (Html.BeginForm("Products", "Home"))
+                    {
+                        <input type="number" name="ID" value="@ViewBag.id" hidden />
+                        <label for="priceFrom">Price:</label>
+                        <input type="text" name="priceFrom" placeholder="From" value="@ViewBag.priceFrom" />
+                        <input type="text" name="priceTo" placeholder="To" value="@ViewBag.priceTo" />
+                        <br />
+                        <label for="discount">Discount:</label>
+                        <input type="checkbox" name="discount" @ViewBag.discount />
+                        <br />
+                        <label for="order">Order price by:</label>
+                        <select name="order" id="order">
+                            <option></option>
+                            <option class="lp" value="Lowest price">Lowest price</option>
+                            <option class="hp" value="Heights price">Heights price</option>
+                        </select>
+                        <br />
+                        <input type="submit" class="button" value="Filter" />
+                    }
+
+                </div>
+            </div>
+        }
+        <div class="page-list aligncenter" style="width:100%;">
+            @Html.PagedListPager(Model, page => Url.Action("Products", new { page, ID = ViewBag.id, search = ViewBag.Search }))
+        </div>
+    }
+    @foreach (var item in Model)
+    {
+        <div class="product">
+            <img src="~/Images/@item.ImageURL" alt="@item.Name" width="300" height="200">
+            <div class="descritions">
+                @if (item.Discounted == true)
+                {
+                    <div class="description2"><div class="alignPrice" style="color:#0fb925"><span style="color:#000000;font-size:11px;">@item.Price</span> @item.DiscountPrice Kn</div></div>
+                }
+                else
+                {
+                    <div class="description2"><div class="alignPrice">@item.Price Kn</div></div>
+                }
+                <div class="description">@item.Name</div>
+            </div>
+            @using (Html.BeginForm("AddToCart", "Home", FormMethod.Post))
+            {
+                if (ViewBag.id != null)
+                {
+                    <input type="number" name="ID" value="@ViewBag.id" hidden />
+                }
+                else
+                {
+                    <input type="number" name="ID" value="0" hidden />
+                }
+                <input type="number" name="ProductID" value="@item.ID" hidden />
+                <input type="text" name="Name" value="@item.Name" hidden />
+                <input type="text" name="UserID" value="@User.Identity.GetUserId()" hidden />
+                if (item.Discounted == true)
+                {
+                    <input type="text" name="Price" value="@item.DiscountPrice" hidden />
+                }
+                else
+                {
+                    <input type="text" name="Price" value="@item.Price" hidden />
+                }
+                <div style="float:left;margin-left:10px;">
+                    <label>Quantity</label>
+                    <input type="number" style="width:70px;text-align:center;" name="quantity" value="1" />
+                </div>
+                <input type="submit" class="submit button" id="submit" style="float:right;margin-right:10px;" value="Add to cart" />
+
+            }
+
+        </div>
+    }
+    <input type="text" value="@User.Identity.GetUserId()" class="client" hidden />
+    <div class="page-list page-list2">
+        @Html.PagedListPager(Model, page => Url.Action("Products", new { page, ID = ViewBag.id, search = ViewBag.Search }))
+    </div>
+</div>
+<script>
+    $(".submit").click(function () {
+        if (!$(".client").val()) {
+            alert("Please Register or Login!");
+            return false;
+        }
+        else {
+            return true;
+        }
+    });
+    $(document).ready(function () {
+        document.getElementById('order').value = "@ViewBag.order";
+    })
+</script>
+

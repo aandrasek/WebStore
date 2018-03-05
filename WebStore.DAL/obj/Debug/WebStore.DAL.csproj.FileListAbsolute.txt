@@ -1,0 +1,84 @@
+c:\users\stole\source\repos\WebStore\WebStore.DAL\bin\Debug\WebStore.DAL.dll.config
+c:\users\stole\source\repos\WebStore\WebStore.DAL\bin\Debug\WebStore.DAL.dll
+c:\users\stole\source\repos\WebStore\WebStore.DAL\bin\Debug\WebStore.DAL.pdb
+c:\users\stole\source\repos\WebStore\WebStore.DAL\bin\Debug\EntityFramework.dll
+c:\users\stole\source\repos\WebStore\WebStore.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\stole\source\repos\WebStore\WebStore.DAL\bin\Debug\Ninject.dll
+c:\users\stole\source\repos\WebStore\WebStore.DAL\bin\Debug\EntityFramework.xml
+c:\users\stole\source\repos\WebStore\WebStore.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\stole\source\repos\WebStore\WebStore.DAL\bin\Debug\Ninject.xml
+c:\users\stole\source\repos\WebStore\WebStore.DAL\obj\Debug\WebStore.DAL.csprojResolveAssemblyReference.cache
+c:\users\stole\source\repos\WebStore\WebStore.DAL\obj\Debug\WebStore.DAL.csproj.CoreCompileInputs.cache
+c:\users\stole\source\repos\WebStore\WebStore.DAL\obj\Debug\WebStore.DAL.dll
+c:\users\stole\source\repos\WebStore\WebStore.DAL\obj\Debug\WebStore.DAL.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.DAL\bin\Debug\WebStore.DAL.dll.config
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.DAL\bin\Debug\WebStore.DAL.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.DAL\bin\Debug\WebStore.DAL.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.DAL\bin\Debug\Ninject.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.DAL\bin\Debug\Ninject.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.DAL\obj\Debug\WebStore.DAL.csprojResolveAssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.DAL\obj\Debug\WebStore.DAL.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.DAL\obj\Debug\WebStore.DAL.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.DAL\obj\Debug\WebStore.DAL.Migrations.InitialCreate.resources
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.DAL\obj\Debug\WebStore.DAL.csproj.GenerateResource.Cache
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\WebStore\WebStore.DAL\obj\Debug\WebStore.DAL.Migrations.prva.resources
+E:\WebStore\WebStore.DAL\bin\Debug\WebStore.DAL.dll.config
+E:\WebStore\WebStore.DAL\bin\Debug\WebStore.DAL.dll
+E:\WebStore\WebStore.DAL\bin\Debug\WebStore.DAL.pdb
+E:\WebStore\WebStore.DAL\bin\Debug\EntityFramework.dll
+E:\WebStore\WebStore.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\WebStore\WebStore.DAL\bin\Debug\Ninject.dll
+E:\WebStore\WebStore.DAL\bin\Debug\EntityFramework.xml
+E:\WebStore\WebStore.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\WebStore\WebStore.DAL\bin\Debug\Ninject.xml
+E:\WebStore\WebStore.DAL\obj\Debug\WebStore.DAL.csprojResolveAssemblyReference.cache
+E:\WebStore\WebStore.DAL\obj\Debug\WebStore.DAL.Migrations.InitialCreate.resources
+E:\WebStore\WebStore.DAL\obj\Debug\WebStore.DAL.Migrations.prva.resources
+E:\WebStore\WebStore.DAL\obj\Debug\WebStore.DAL.csproj.GenerateResource.Cache
+E:\WebStore\WebStore.DAL\obj\Debug\WebStore.DAL.csproj.CoreCompileInputs.cache
+E:\WebStore\WebStore.DAL\obj\Debug\WebStore.DAL.dll
+E:\WebStore\WebStore.DAL\obj\Debug\WebStore.DAL.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.DAL\bin\Debug\WebStore.DAL.dll.config
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.DAL\bin\Debug\WebStore.DAL.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.DAL\bin\Debug\WebStore.DAL.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.DAL\bin\Debug\Ninject.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.DAL\bin\Debug\Ninject.xml
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.Migrations.InitialCreate.resources
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.Migrations.prva.resources
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.csproj.GenerateResource.Cache
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.dll
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.Migrations.jjh.resources
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.Migrations.ghghg.resources
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.Migrations.gfd.resources
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.Migrations.jhhh.resources
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.DAL\bin\Debug\WebStore.DAL.dll.config
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.DAL\bin\Debug\WebStore.DAL.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.DAL\bin\Debug\WebStore.DAL.pdb
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.DAL\bin\Debug\Ninject.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.DAL\bin\Debug\Ninject.xml
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.csprojResolveAssemblyReference.cache
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.Migrations.InitialCreate.resources
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.Migrations.prva.resources
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.Migrations.jjh.resources
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.Migrations.ghghg.resources
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.Migrations.gfd.resources
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.Migrations.jhhh.resources
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.csproj.GenerateResource.Cache
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.dll
+C:\Users\ucenik\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.pdb
+C:\Users\Stole\Desktop\WebStore - Copy\WebStore.DAL\obj\Debug\WebStore.DAL.Migrations.ggg.resources
